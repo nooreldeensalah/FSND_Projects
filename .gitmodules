@@ -1,3 +1,6 @@
 [submodule "FSND_Fyyur"]
 	path = FSND_Fyyur
 	url = https://github.com/nooreldeensalah/FSND_Fyyur
+[submodule "FSND_Trivia_API"]
+	path = FSND_Trivia_API
+	url = https://github.com/nooreldeensalah/FSND_Trivia_API
