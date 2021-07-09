@@ -4,3 +4,6 @@
 [submodule "FSND_Trivia_API"]
 	path = FSND_Trivia_API
 	url = https://github.com/nooreldeensalah/FSND_Trivia_API
+[submodule "FSND_Coffee_Shop_Full_Stack"]
+	path = FSND_Coffee_Shop_Full_Stack
+	url = https://github.com/nooreldeensalah/FSND_Coffee_Shop_Full_Stack
