@@ -7,3 +7,6 @@
 [submodule "FSND_Coffee_Shop_Full_Stack"]
 	path = FSND_Coffee_Shop_Full_Stack
 	url = https://github.com/nooreldeensalah/FSND_Coffee_Shop_Full_Stack
+[submodule "FSND_Deploy_Flask_App_to_Kubernetes_Using_EKS"]
+	path = FSND_Deploy_Flask_App_to_Kubernetes_Using_EKS
+	url = https://github.com/nooreldeensalah/FSND_Deploy_Flask_App_to_Kubernetes_Using_EKS
